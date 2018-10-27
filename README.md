@@ -1,2 +1,2 @@
-# tutorial-linux-bahasa-indonesia
-sharing ilmu dan pengetahuan tentang linux
+# Tutorial Linux Bahasa Indonesia
+Sharing ilmu dan pengetahuan tentang sistem operasi GNU/Linux
